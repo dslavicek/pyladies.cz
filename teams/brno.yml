@@ -802,3 +802,10 @@
   role: Koučka
   links:
     - linkedin-link: https://www.linkedin.com/in/nina-belyavskaya/
+
+- name: David Slavíček
+  img: img/brno/team/dslavicek.jpg
+  role: lektor, kouč
+  links:
+    - linkedin-link:
+https://www.linkedin.com/in/david-slavíček-a20518163
